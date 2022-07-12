@@ -1,0 +1,4 @@
+para correr el porgrama debes cambiar el puerto, usuario y contrasena de los archivo database.php
+
+por el puerto, usuario y contrasena de tu base de datos.
+(Las tablas y esquemas deben llamarse igual o puedes cambiarlo en el codigo).
